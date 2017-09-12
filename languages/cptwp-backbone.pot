@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2017-09-12 18:08+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/cptwp-backbone-admin.class.php:50
+msgid "Shortcode"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:66
+#: includes/cptwp-backbone-admin.class.php:128
+msgid "Short description"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:67
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:92
+msgid "Content"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:132
+msgid "Description"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:149
+msgid "Images library"
+msgstr ""
+
+#: includes/cptwp-backbone-admin.class.php:149
+msgid "Select an image"
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:27
+#: includes/cptwp-backbone-init.class.php:72
+msgid "add new "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:28
+#: includes/cptwp-backbone-init.class.php:73
+msgid "edit "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:29
+#: includes/cptwp-backbone-init.class.php:74
+msgid "create new "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:30
+#: includes/cptwp-backbone-init.class.php:31
+#: includes/cptwp-backbone-init.class.php:75
+#: includes/cptwp-backbone-init.class.php:76
+msgid "view "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:32
+#: includes/cptwp-backbone-init.class.php:77
+msgid "search "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:33
+#: includes/cptwp-backbone-init.class.php:34
+#: includes/cptwp-backbone-init.class.php:78
+#: includes/cptwp-backbone-init.class.php:79
+msgid "not found "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:35
+#: includes/cptwp-backbone-init.class.php:80
+msgid "All "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:36
+#: includes/cptwp-backbone-init.class.php:81
+msgid "The list of "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:37
+msgid "CPTWP"
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:38
+msgid "new CPTWP "
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:82
+msgid "CPTWP Category"
+msgstr ""
+
+#: includes/cptwp-backbone-init.class.php:83
+msgid "new CPTWP Categories"
+msgstr ""

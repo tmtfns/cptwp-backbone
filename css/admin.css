@@ -1,13 +1,16 @@
-/*     
-    Author     : Tata
-*/
 
 .cptwp-image-wrap {
-    
+    margin-top: 20px;
 }
 .cptwp-image-preview {
-    
+    width: 100%;
+    padding: 15px 5px;    
 }
-.cptwp-media-upload {
-    
+
+.cptwp-image-preview img{
+    max-width: 100%; 
+}
+.button.cptwp-media-upload {
+    font-size: 16px;
+    color: #333;   
 }

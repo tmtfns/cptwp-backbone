@@ -103,7 +103,7 @@ if( ! class_exists( 'CptwpBackboneAdmin' ) ) {
             }
             if ( ! current_user_can( 'edit_post', $post_id ) ) 
                 return;
-            if(!wp_verify_nonce( $_POST['cptwp_back_nonce'], __CLASS__ )) 
+            if ((! isset($_POST['cptwp_back_nonce'])) || (! wp_verify_nonce( $_POST['cptwp_back_nonce'], __CLASS__ ))) 
             {
                 return;
             } 

@@ -31,6 +31,7 @@ if( ! class_exists( 'CptwpBackboneFront' ) ) {
                 'orderby' => 'ID',
                 'order'   => 'DESC',
                 'post_status' => array( 'publish' ),
+                'nopaging' => true,
                 
             );
             if ( $attrs['id'] > 0) {               
@@ -58,7 +59,7 @@ if( ! class_exists( 'CptwpBackboneFront' ) ) {
                     $image_val = get_post_meta( $post->ID, 'item_img', true );
                     if (! empty( $image_val)) {
                         $image = '<img class="cptwp-front-image" src="' .
-                        wp_get_attachment_image_src( $image_val, 'thumbnail' )[0] .
+                        wp_get_attachment_image_src( $image_val, 'full' )[0] .
                         '" alt="' . $alt . '">';
                     } else $image = '';
                     ?> 
